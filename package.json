@@ -5,14 +5,14 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jorgerosal/amazon-paapi.git"
+    "url": "git+https://github.com/Vladimir-Tagias/amazon-paapi.git"
   },
   "author": "Jorge Rosal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jorgerosal/amazon-paapi/issues"
+    "url": "https://github.com/Vladimir-Tagias/amazon-paapi/issues"
   },
-  "homepage": "https://github.com/jorgerosal/amazon-paapi#readme",
+  "homepage": "https://github.com/Vladimir-Tagias/amazon-paapi#readme",
   "keywords": [
     "paapi5",
     "PA-API 5.0",
