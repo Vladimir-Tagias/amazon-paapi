@@ -20,7 +20,7 @@
  */
 
 (function(root, factory) {
-  if (typeof define === 'function' && define.amd) {
+  if (false && typeof define === 'function' && define.amd) {
     // AMD. Register as an anonymous module.
     define(['ApiClient', 'model/Availability', 'model/Condition', 'model/DeliveryFlag', 'model/MaxPrice', 'model/Merchant', 'model/MinPrice', 'model/MinReviewsRating', 'model/MinSavingPercent', 'model/OfferCount', 'model/PartnerType', 'model/Properties', 'model/SearchItemsResource', 'model/SortBy'], factory);
   } else if (typeof module === 'object' && module.exports) {

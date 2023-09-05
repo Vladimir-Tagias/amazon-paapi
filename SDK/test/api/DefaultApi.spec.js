@@ -20,7 +20,7 @@
  */
 
 (function(root, factory) {
-  if (typeof define === 'function' && define.amd) {
+  if (false && typeof define === 'function' && define.amd) {
     // AMD.
     define(['expect.js', '../../src/index'], factory);
   } else if (typeof module === 'object' && module.exports) {
